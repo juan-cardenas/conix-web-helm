@@ -1,0 +1,6 @@
+dependencies:
+- name: cf-jboss-7
+  repository: https://cf1hlmnxs.cfavorita.net/repository/helm-base/
+  version: 7.0.1
+digest: sha256:eee287dd04dd8e27111a8df3e874f5e02617df1999d166197dc58a4c92134946
+generated: "2022-06-16T10:23:58.656321746-05:00"
