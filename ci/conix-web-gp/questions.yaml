@@ -33,6 +33,7 @@ questions:
     description: "System domain"
     type: enum
     options:
+      - "192.168.10.240"
       - "www.grey.pa"
       - "www.cfavorita.ec"
       - "www.cdfavorita.ec"
