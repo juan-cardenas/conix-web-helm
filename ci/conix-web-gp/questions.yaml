@@ -4,7 +4,7 @@ categories:
   - SMX
 questions:
   - variable: image.registry
-    default: "cf1dck.cfavorita.net"
+    default: "gcr.io"
     description: "Docker registry"
     type: string
     required: true
@@ -29,7 +29,7 @@ questions:
     group: "Docker Image Settings"
 
   - variable: ingress.hosts[0].host
-    default: "aplpre.favorita.ec"
+    default: "192.168.10.240"
     description: "System domain"
     type: enum
     options:
